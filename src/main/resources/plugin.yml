@@ -1,0 +1,5 @@
+name: MacsCustomItemsAPI
+version: '${project.version}'
+main: eu.macsworks.premium.macscustomitemsapi.MacsCustomItemsAPI
+api-version: 1.20
+website: macsworks.eu
